@@ -8,6 +8,7 @@ namespace FlipProb
         {
             
             FlipProb.AddTwoNumber();
+            FlipProb.FlipThecoin();
         }
     }
 }
